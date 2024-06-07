@@ -1,4 +1,5 @@
 # SYRIA TELECOMMUNICATIONS LIMITED
+*An analysis of the high churn rate experienced by Syria Tel*
 
 ![telephones](images/nastya-very-small.jpg)
 
@@ -126,3 +127,6 @@ Recommendations to ensure Syria Telecommunications retaining of the 80% predicte
 - Trained Customer Service Agents and Customer Feedback Recording
 - Upgrade Technology in problem areas where there are high customer service rates.
 - Re-evaluation of price points by using a mix of linear and constant prices.
+
+---
+Authored by [George Kariuki](mailto:ggeorgekkariuki@gmail.com)
